@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^6.1.4",
+    "react-barcode": "^1.5.3",
+    "react-to-print": "^3.0.2"
+  }
+}

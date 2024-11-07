@@ -1,0 +1,20 @@
+/* src/components/UserProfiles.css */
+.user-profiles-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .profile-card {
+    background: #f4f4f4;
+    padding: 15px;
+    margin: 10px 0;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .profile-card:hover {
+    background: #ddd;
+  }

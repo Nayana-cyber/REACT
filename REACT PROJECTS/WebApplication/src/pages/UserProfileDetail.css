@@ -1,0 +1,17 @@
+/* src/components/UserProfileDetail.css */
+.profile-detail-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+  }
+  
+  .profile-detail-container h2 {
+    text-align: center;
+  }
+  
+  .profile-detail-container p {
+    margin: 5px 0;
+  }

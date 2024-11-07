@@ -1,0 +1,18 @@
+{
+    "monthlySales": [
+      { "month": "January", "sales": 5000 },
+      { "month": "February", "sales": 4000 },
+      { "month": "March", "sales": 6000 }
+    ],
+    "weeklyTrends": [
+      { "week": "Week 1", "sales": 1200 },
+      { "week": "Week 2", "sales": 1600 },
+      { "week": "Week 3", "sales": 1400 }
+    ],
+    "categorySales": [
+      { "category": "Electronics", "sales": 7000 },
+      { "category": "Furniture", "sales": 3000 },
+      { "category": "Clothing", "sales": 2000 }
+    ]
+  }
+  

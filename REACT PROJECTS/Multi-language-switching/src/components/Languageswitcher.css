@@ -1,0 +1,36 @@
+/* src/components/LanguageSwitcher.css */
+body {
+    background-color:paleturquoise ;
+}
+
+
+.language-switcher {
+    
+    display: flex;
+    gap: 8px;
+  }
+  
+  .language-switcher button {
+   
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .language-switcher button:hover {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+  
+  .language-switcher button:focus {
+    outline: none;
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+  button{
+    background-color: rgb(243, 235, 235);
+    color: rgb(185, 46, 157);
+  }
+  
